@@ -1,0 +1,22 @@
+body {
+    background-color: #a0e3f0;
+}
+
+.footer2 {
+    background-color: #00b6cb;
+    margin-top: 40px;
+    height: 560px;
+}
+
+form {
+    margin-top: 100px;
+}
+
+.login {
+    margin-left: 100px;
+    padding-top: 100px;
+    font-size: 35px;
+    font-weight: 500;
+    font-style: italic;
+    font-family: 'Roboto', sans-serif;
+}
